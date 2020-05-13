@@ -4,6 +4,10 @@ This is a fork of the original https://github.com/Neerajj9/CSRNet-keras please h
 ## CSRNet-keras-with-attention
 This repo was forked to be used in research to add Attention to CSRNet. The code here is modified of to the original file
 
+## Dataset
+
+The data set can be found [In this link](https://drive.google.com/file/d/16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI/view)
+
 The following changes have been applied
 ## Modifications :
 
