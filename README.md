@@ -10,5 +10,5 @@ The following changes have been applied
 | File | Modification |
 | --- | --- |
 | Model | we have added a dense layer and dropout layer to the Model |
-| Model | We have opted for Adam optimizer in the floowing settings adam(lr = 1e-8, decay = (5*1e-4)) |
+| Model | We have opted for Adam optimizer in the following settings adam(lr = 1e-8, decay = (5*1e-4)) |
 | Model | We have used mean squared error as our loss function|
